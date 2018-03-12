@@ -1,0 +1,30 @@
+.loginform{
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+    margin:0 auto;
+    text-align: center;
+    padding:30px;
+}
+
+.signinform{
+    border: 1px solid black;
+    height: 500px;
+    width: 300px;
+    margin:0 auto;
+    text-align: center;
+    padding:30px;
+}
+
+#submit{
+    margin-top: 30px;
+}
+
+.loginclass{
+    border: 1px solid black;
+    height: 150px;
+    width: 300px;
+    margin:0 auto;
+    text-align: center;
+    padding:30px; 
+}
